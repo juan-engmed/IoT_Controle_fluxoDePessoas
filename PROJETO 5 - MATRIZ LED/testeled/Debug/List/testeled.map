@@ -1,0 +1,28 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+a_p                                                                               0x0160       8
+a_n                                                                               0x0168      24
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+cont                                                                              R4,R5        2
+i                                                                                 R6,R7        2
+j                                                                                 R8,R9        2
+k                                                                                 R10,R11      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0009A    130
+putchar                                                                           0x0011C      7
+put_usart_G100                                                                    0x00123     14
+_print_G100                                                                       0x00131    294
+printf                                                                            0x00257     35
+strlen                                                                            0x0027A     12
+strlenf                                                                           0x00286     13

@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:52678048
+NODE:M LEVEL:0 LINE:22 "F_CPU"
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega16.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavreval\inc\io.h"
+NODE:V LEVEL:0 LINE:28 "cont -> R4,R5"
+NODE:I LEVEL:0 LINE:31 "C:\cvavreval\inc\stdio.h"
+NODE:V LEVEL:0 LINE:33 "a_p -> RAM:????"
+NODE:V LEVEL:0 LINE:37 "a_n -> RAM:????"
+NODE:V LEVEL:0 LINE:46 "i -> R6,R7"
+NODE:V LEVEL:0 LINE:46 "j -> R8,R9"
+NODE:V LEVEL:0 LINE:46 "k -> R10,R11"
+NODE:F LEVEL:0 LINE:48 "main(void)"

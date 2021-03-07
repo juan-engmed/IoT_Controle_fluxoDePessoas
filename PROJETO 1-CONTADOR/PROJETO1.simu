@@ -1,0 +1,39 @@
+<circuit reactStep="50" animate="0" noLinAcc="5" Speed_sps="1000000" type="simulide_0.4" Speed_per="100" Simu_Step_nS="1000">
+
+Unique  Id: Fixed Voltage-8: 
+Circuit Id: Fixed Voltage-8
+<item hflip="1" valLabely="8" labelrot="0" labelx="-64" Unit=" V" circPos="0,0" boardRot="-1000000" labely="-24" circRot="8.1484638407848678e-312" boardPos="-1e+06,-1e+06" y="-304" objectName="Fixed Voltage-8" vflip="1" id="Fixed Voltage-8" valLabelx="-16" valLabRot="0" itemtype="Fixed Voltage" rotation="0" Show_Volt="true" Show_id="false" Voltage="5" x="-556" mainComp="false" Out="true"/>
+
+Unique  Id: Fixed Voltage-6: 
+Circuit Id: Fixed Voltage-6
+<item hflip="1" valLabely="8" labelrot="0" labelx="-64" Unit=" V" circPos="0,0" boardRot="-1000000" labely="-24" circRot="4.0742319202343329e-312" boardPos="-1e+06,-1e+06" y="-352" objectName="Fixed Voltage-6" vflip="1" id="Fixed Voltage-6" valLabelx="-16" valLabRot="0" itemtype="Fixed Voltage" rotation="0" Show_Volt="true" Show_id="false" Voltage="5" x="-556" mainComp="false" Out="true"/>
+
+Unique  Id: atmega8-3: 
+Circuit Id: atmega8-3
+<item hflip="1" valLabely="0" labelrot="0" labelx="0" Auto_Load="false" Logic_Symbol="false" circPos="0,0" boardRot="-1000000" labely="-20" circRot="5.4909032969736118e-317" Mhz="16" boardPos="-1e+06,-1e+06" y="-376" objectName="atmega8-3" vflip="1" id="atmega8-3" valLabelx="0" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" valLabRot="0" itemtype="AVR" rotation="0" Program="../../../../UART/Exe/UART.hex" Show_id="true" x="-328" mainComp="false" Init_gdb="false" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"/>
+
+Unique  Id: Push-2: 
+Circuit Id: Push-2
+<item hflip="1" valLabely="0" labelrot="0" labelx="-16" circPos="0,0" boardRot="-1000000" Key="" labely="-24" circRot="-5.8986805820357639e+307" boardPos="-1e+06,-1e+06" Poles="1" y="-304" objectName="Push-2" vflip="1" id="Push-2" valLabelx="0" valLabRot="0" itemtype="Push" rotation="0" Norm_Close="false" Show_id="false" x="-488" mainComp="false"/>
+
+Unique  Id: Push-1: 
+Circuit Id: Push-1
+<item hflip="1" valLabely="0" labelrot="0" labelx="-16" circPos="0,0" boardRot="-1000000" Key="" labely="-24" circRot="nan" boardPos="-1e+06,-1e+06" Poles="1" y="-352" objectName="Push-1" vflip="1" id="Push-1" valLabelx="0" valLabRot="0" itemtype="Push" rotation="0" Norm_Close="false" Show_id="false" x="-488" mainComp="false"/>
+
+Unique  Id: Connector-4: 
+Circuit Id: Connector-4
+<item hflip="1" startpinid="Push-1-switch0pinN" valLabely="0" labelrot="0" labelx="-16" circPos="0,0" boardRot="-1000000" labely="-24" circRot="0" boardPos="-1e+06,-1e+06" y="-352" objectName="Connector-4" vflip="1" id="Connector-4" valLabelx="0" endpinid="atmega8-3-PD1" pointList="-472,-352,-336,-352" valLabRot="0" itemtype="Connector" rotation="0" Show_id="false" enodeid="enode-4" x="-472" mainComp="false"/>
+
+Unique  Id: Connector-5: 
+Circuit Id: Connector-5
+<item hflip="1" startpinid="Push-2-switch0pinN" valLabely="0" labelrot="0" labelx="-16" circPos="0,0" boardRot="-1000000" labely="-24" circRot="0" boardPos="-1e+06,-1e+06" y="-304" objectName="Connector-5" vflip="1" id="Connector-5" valLabelx="0" endpinid="atmega8-3-PD2" pointList="-472,-304,-392,-304,-392,-344,-336,-344" valLabRot="0" itemtype="Connector" rotation="0" Show_id="false" enodeid="enode-5" x="-472" mainComp="false"/>
+
+Unique  Id: Connector-7: 
+Circuit Id: Connector-7
+<item hflip="1" startpinid="Fixed Voltage-6-outnod" valLabely="0" labelrot="0" labelx="-16" circPos="0,0" boardRot="-1000000" labely="-24" circRot="0" boardPos="-1e+06,-1e+06" y="-352" objectName="Connector-7" vflip="1" id="Connector-7" valLabelx="0" endpinid="Push-1-pinP0" pointList="-540,-352,-504,-352" valLabRot="0" itemtype="Connector" rotation="0" Show_id="false" enodeid="enode-7" x="-540" mainComp="false"/>
+
+Unique  Id: Connector-9: 
+Circuit Id: Connector-9
+<item hflip="1" startpinid="Fixed Voltage-8-outnod" valLabely="0" labelrot="0" labelx="-16" circPos="0,0" boardRot="-1000000" labely="-24" circRot="0" boardPos="-1e+06,-1e+06" y="-304" objectName="Connector-9" vflip="1" id="Connector-9" valLabelx="0" endpinid="Push-2-pinP0" pointList="-540,-304,-504,-304" valLabRot="0" itemtype="Connector" rotation="0" Show_id="false" enodeid="enode-9" x="-540" mainComp="false"/>
+ 
+</circuit>

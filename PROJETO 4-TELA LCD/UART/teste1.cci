@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:52664EC7
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega16.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavreval\inc\alcd.h"
+NODE:V LEVEL:0 LINE:31 "cont -> R4,R5"
+NODE:V LEVEL:0 LINE:32 "lotacao -> RAM:????"
+NODE:V LEVEL:0 LINE:33 "aviso -> RAM:????"
+NODE:I LEVEL:0 LINE:36 "C:\cvavreval\inc\stdio.h"
+NODE:F LEVEL:0 LINE:38 "main(void)"
