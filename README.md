@@ -21,6 +21,9 @@
 - Projeto Final:
 
 <p align="center">
+  <img align="center" width="500px" src="https://www.imagemhost.com.br/images/2021/03/07/capmin.png" />
+</a></p>
+<p align="center">
   <img align="center" width="500px" src="https://www.imagemhost.com.br/images/2021/03/07/capmax.png" />
 </a></p>
 
